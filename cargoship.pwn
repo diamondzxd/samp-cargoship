@@ -1,5 +1,7 @@
 //  original script by kyle, edited by TheGamer and diamondzxd
-//  map made by sursai
+//  mapping credits - Sursai_Kosecksi
+
+// was briefly used in pilots life samp server.
 
 // script made
 

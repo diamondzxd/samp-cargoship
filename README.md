@@ -17,7 +17,7 @@ This can be either compiled into .AMX executable using a PAWN compiler setup, or
 
 Happy Scripting! :)
 
-Original script by kyle, edited by TheGamer and diamondzxd
-mapping credits - Sursai_Kosecksi
+Original script by kyle, edited by TheGamer and diamondzxd.
+Mapping credits - Sursai_Kosecksi
 
 This script was briefly used in [The Pilots Life SAMP server](https://thepilotslife.com/).

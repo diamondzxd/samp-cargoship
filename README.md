@@ -1,6 +1,6 @@
 # SAMP Cargoship
 
-A SAMP Filterscript which adds a flying cargoship which follows the coordinates specified, then returns back to its original location.
+A SAMP Filterscript which adds a flying cargoship that follows the specified co-ordinates, then returns back to its original location.
 
 ### What is SAMP?
 
